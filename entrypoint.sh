@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=0f1cac76-5ebc-45eb-9132-8bcb84da56d9
-WSPATH=/vint
+UUID=0f1cac76-5ecb-45be-9123-8bcb84da56d9
+WSPATH=/vin
 PORT=80
 
 
